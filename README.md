@@ -1,1 +1,2 @@
 # Herencia
+Explicacion herencia
